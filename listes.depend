@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1525186422 source:c:\users\infol\onedrive\документы\listes\main.cpp
+	"control.h"
+
+1525367280 c:\users\infol\onedrive\документы\listes\control.h
+	"common_function.h"
+	"ex1.h"
+	"ex2.h"
+	"ex3.h"
+	"ex4.h"
+	"ex5.h"
+	"ex6.h"
+	"ex7.h"
+	"ex8.h"
+	"ex9.h"
+	"ex10.h"
+	"ex11.h"
+	"ex12.h"
+
+1525186459 c:\users\infol\onedrive\документы\listes\common_function.h
+	<bits/stdc++.h>
+
+1525186980 c:\users\infol\onedrive\документы\listes\ex1.h
+
+1525187222 c:\users\infol\onedrive\документы\listes\ex2.h
+
+1525196416 c:\users\infol\onedrive\документы\listes\ex3.h
+
+1525184018 c:\users\infol\onedrive\документы\listes\ex4.h
+
+1525421614 c:\users\infol\onedrive\документы\listes\ex5.h
+
+1525202326 c:\users\infol\onedrive\документы\listes\ex6.h
+
+1525421614 c:\users\infol\onedrive\документы\listes\ex7.h
+
+1525184015 c:\users\infol\onedrive\документы\listes\ex8.h
+
+1525202858 c:\users\infol\onedrive\документы\listes\ex9.h
+
+1525421614 c:\users\infol\onedrive\документы\listes\ex10.h
+
+1525205520 c:\users\infol\onedrive\документы\listes\ex11.h
+
+1525184012 c:\users\infol\onedrive\документы\listes\ex12.h
+

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="listes" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/listes" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/listes" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="common_function.h" />
+		<Unit filename="control.h" />
+		<Unit filename="cr_no_ni.txt" />
+		<Unit filename="data1.txt" />
+		<Unit filename="data2.txt" />
+		<Unit filename="ex1.h" />
+		<Unit filename="ex10.h" />
+		<Unit filename="ex11.h" />
+		<Unit filename="ex12.h" />
+		<Unit filename="ex2.h" />
+		<Unit filename="ex3.h" />
+		<Unit filename="ex4.h" />
+		<Unit filename="ex5.h" />
+		<Unit filename="ex6.h" />
+		<Unit filename="ex7.h" />
+		<Unit filename="ex8.h" />
+		<Unit filename="ex9.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
